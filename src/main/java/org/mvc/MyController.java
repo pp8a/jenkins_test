@@ -8,6 +8,6 @@ public class MyController {
 
 	@GetMapping("/")
 	public String hello() {
-		return "test v.1.0";
+		return "TEST APP v.1.1";
 	}
 }
